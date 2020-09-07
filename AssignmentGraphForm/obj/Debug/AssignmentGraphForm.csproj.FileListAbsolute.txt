@@ -1,0 +1,13 @@
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\bin\Debug\AssignmentGraphForm.exe.config
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\bin\Debug\AssignmentGraphForm.exe
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\bin\Debug\AssignmentGraphForm.pdb
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\bin\Debug\MetroFramework.dll
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.Form1.resources
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.Properties.Resources.resources
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.csproj.GenerateResource.cache
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.csproj.CoreCompileInputs.cache
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.csproj.CopyComplete
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.exe
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.pdb
+C:\Users\hyoku\OneDrive\Documents\LIT\Year3\Computer Science\Graph\AssignmentGraphForm\AssignmentGraphForm\obj\Debug\AssignmentGraphForm.csprojAssemblyReference.cache
